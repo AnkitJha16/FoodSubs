@@ -13,3 +13,4 @@ https://foodsubs.netlify.app/
 ## Description
 This app design can be used as an inspiration for any food based subscription app 
 
+Note : This Project has been inspired from the udemy content creator Jonas Schmedtmann (HTML and CSS Course).
